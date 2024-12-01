@@ -1,29 +1,4 @@
 # LEMMINGS_V3
-<!-- TOC start -->
-- [Assignment 3: Exception handling and file handling](#practica-3-excepcionesYficheros)
-- [Introduction](#introduccion)
-- [Exception handling](#exceptions)
-	- [Exceptions thrown in the control part of the program](#command-exceptions)
-	- [Exceptions thrown in the model part of the program](#gamemodel-exceptions)
-- [File handling](#files)
-	- [Serialization / deserialization](#serialization)
-	- [Saving the game state to file: the `save` command](#save-command)
-	- [Loading the game state from file: the `load` command](#load-command)
-	- [Adapting the `reset` method of the `Game` class](#reset-load-game)
-	- [Details of the `save` command (optional)](#save-command-details)
-	- [Initial configurations of the game (optional)](#level-conf)
-<!-- TOC end -->
-
-<!-- TOC --><a name="practica-3-excepcionesYficheros"></a>
-# Assignment 3: Exception-handling and file handling
-
-**Submission: December 2nd 2024, 12:00**
-
-**Objectives:** handling exceptions and files
-
-<!--
-**Preguntas Frecuentes**: Como es habitual que tengáis dudas (es normal) las iremos recopilando en este [documento de preguntas frecuentes](../faq.md). Para saber los últimos cambios que se han introducido [puedes consultar la historia del documento](https://github.com/informaticaucm-TPI/2425-Lemmings/commits/main/enunciados/faq.md).
--->
 
 <!-- TOC --><a name="introduccion"></a>
 # Introduction
